@@ -1,0 +1,25 @@
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.exe
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.pdb
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.csprojResolveAssemblyReference.cache
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.exe
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.pdb
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.exe
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.pdb
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.csprojResolveAssemblyReference.cache
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.exe
+H:\2026 Asignaturas\2A PRG2\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.csprojResolveAssemblyReference.cache
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.csprojResolveAssemblyReference.cache
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - Listas -original - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\bin\Debug\Proy_Empresa_HCA.pdb
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.csprojResolveAssemblyReference.cache
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.exe
+C:\2do sistemas\programacion\2do Bimestre\Proy_Empresa_HCA - propiedades\Proy_Empresa_HCA - Listas\Proy_Empresa_HCA\obj\Debug\Proy_Empresa_HCA.pdb
