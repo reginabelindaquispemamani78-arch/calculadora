@@ -1,0 +1,15 @@
+C:\Users\Lab 3\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Lab 3\Documents\SharpDevelop Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Lab 3\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Lab 3\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Lab 3\Documents\SharpDevelop Projects\calculadora\calculadora\obj\Debug\calculadora.pdb
+D:\Bolivia Mar\2DO AÑO\PROGRAMACION II\Calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+D:\Bolivia Mar\2DO AÑO\PROGRAMACION II\Calculadora\calculadora\obj\Debug\calculadora.exe
+D:\Bolivia Mar\2DO AÑO\PROGRAMACION II\Calculadora\calculadora\obj\Debug\calculadora.pdb
+D:\Bolivia Mar\2DO AÑO\PROGRAMACION II\Calculadora\calculadora\bin\Debug\calculadora.exe
+D:\Bolivia Mar\2DO AÑO\PROGRAMACION II\Calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\RYZEN 5\Downloads\Calculadora\Calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\RYZEN 5\Downloads\Calculadora\Calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\RYZEN 5\Downloads\Calculadora\Calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+C:\Users\RYZEN 5\Downloads\Calculadora\Calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\RYZEN 5\Downloads\Calculadora\Calculadora\calculadora\obj\Debug\calculadora.pdb
